@@ -3,6 +3,7 @@ import {User} from '../../shared/models/user';
 import {UsersService} from '../../shared/services/users.service';
 import {Router} from '@angular/router';
 
+
 @Component({
   selector: 'app-profile',
   templateUrl: './profile.component.html',
